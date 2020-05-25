@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>岛</title>
-  <icon>https://www.gravatar.com/avatar/cf3b0829239c4833f69acdc18aa7ed5d</icon>
-  <subtitle>面朝大海，春暖花开</subtitle>
+  <title>Hexo</title>
+  
+  <subtitle>执子之手，与子偕老</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.baishanca.cn/"/>
+  <link href="http://www.baishanca.cn/"/>
   <updated>2020-05-24T16:02:58.227Z</updated>
-  <id>https://www.baishanca.cn/</id>
+  <id>http://www.baishanca.cn/</id>
   
   <author>
     <name>Baishanca</name>
-    <email>madonghui722@gmail.com</email>
+    
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>My birthday</title>
-    <link href="https://www.baishanca.cn/2020/ckamgyy1e0000p4vucoxygzwz/"/>
-    <id>https://www.baishanca.cn/2020/ckamgyy1e0000p4vucoxygzwz/</id>
+    <link href="http://www.baishanca.cn/2020/05/25/My-birthday/"/>
+    <id>http://www.baishanca.cn/2020/05/25/My-birthday/</id>
     <published>2020-05-24T16:02:58.000Z</published>
     <updated>2020-05-24T16:02:58.227Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.baishanca.cn/2020/ckamgyy1k0002p4vu71xzeat0/"/>
-    <id>https://www.baishanca.cn/2020/ckamgyy1k0002p4vu71xzeat0/</id>
+    <link href="http://www.baishanca.cn/2020/05/24/hello-world/"/>
+    <id>http://www.baishanca.cn/2020/05/24/hello-world/</id>
     <published>2020-05-24T13:51:25.555Z</published>
     <updated>2020-05-24T13:51:25.555Z</updated>
     
