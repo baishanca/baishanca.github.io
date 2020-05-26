@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.baishanca.cn/"/>
-  <updated>2020-05-24T16:02:58.227Z</updated>
+  <updated>2020-05-26T15:15:26.448Z</updated>
   <id>http://www.baishanca.cn/</id>
   
   <author>
@@ -17,9 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://www.baishanca.cn/2020/ckao2af6p0004gwvucdgf50er/"/>
+    <id>http://www.baishanca.cn/2020/ckao2af6p0004gwvucdgf50er/</id>
+    <published>2020-05-26T15:13:17.000Z</published>
+    <updated>2020-05-26T15:15:26.448Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="����" scheme="http://www.baishanca.cn/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>My birthday</title>
-    <link href="http://www.baishanca.cn/2020/ckao245w70000f0vu5qkw8qep/"/>
-    <id>http://www.baishanca.cn/2020/ckao245w70000f0vu5qkw8qep/</id>
+    <link href="http://www.baishanca.cn/2020/ckao2af6g0000gwvu5vxz6ydm/"/>
+    <id>http://www.baishanca.cn/2020/ckao2af6g0000gwvu5vxz6ydm/</id>
     <published>2020-05-24T16:02:58.000Z</published>
     <updated>2020-05-24T16:02:58.227Z</updated>
     
@@ -33,8 +50,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.baishanca.cn/2020/ckao245wd0002f0vugsgn61z9/"/>
-    <id>http://www.baishanca.cn/2020/ckao245wd0002f0vugsgn61z9/</id>
+    <link href="http://www.baishanca.cn/2020/ckao2af6m0002gwvudr694w95/"/>
+    <id>http://www.baishanca.cn/2020/ckao2af6m0002gwvudr694w95/</id>
     <published>2020-05-24T13:51:25.555Z</published>
     <updated>2020-05-24T13:51:25.555Z</updated>
     
