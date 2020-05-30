@@ -2,12 +2,21 @@
 <search>
   <entry>
     <title>My birthday</title>
-    <url>/2020/ckat9j13t00007gvu9ochenxa/</url>
+    <url>/2020/ckatci0vh0000bgvu7in2a8z3/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>test</title>
+    <url>/2020/ckatci0vl0001bgvucbfpciq5/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>表格</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2020/ckat9j13y00027gvu80d29kqi/</url>
+    <url>/2020/ckatci0wc0006bgvug791eues/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
@@ -22,14 +31,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/ckat9j14000047gvugocqhfod/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>表格</tag>
-        <tag>test</tag>
-      </tags>
   </entry>
 </search>
