@@ -2,12 +2,35 @@
 <search>
   <entry>
     <title>My birthday</title>
-    <url>/2020/ckatsxd4s000084vu06lhaqev/</url>
+    <url>/2020/ckatt2ets0000m4vuhxxx3rbo/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>给GDX们搞一个版块</title>
+    <url>/2020/ckatt2etx0002m4vu8z6ucdar/</url>
+    <content><![CDATA[<p>给好（G）兄（D）弟（X）们创建一个版块!  </p>
+<p><img src="F:%5Cphoto%5Ccat.png" alt="cat"></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>GDX</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/ckatt2etz0003m4vuh2oi246y/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>表格</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2020/ckatsxd4w000184vu754zc297/</url>
+    <url>/2020/ckatt2eu20006m4vu5ow71424/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
@@ -22,28 +45,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/ckatsxd4x000284vu39jx8x9p/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>表格</tag>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>给GDX们搞一个版块</title>
-    <url>/2020/ckatsxd4y000384vu0xlr4tk4/</url>
-    <content><![CDATA[<p>给好（G）兄（D）弟（X）们创建一个版块!  </p>
-<p>:cow::beer:！</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>GDX</tag>
-      </tags>
   </entry>
 </search>
